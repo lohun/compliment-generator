@@ -58,7 +58,7 @@ Create a `.env.local` file in the project root:
 ```env
 # Gemini API
 GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
+GEMINI_MODEL=gemini-3.1-flash-lite
 
 # MongoDB
 MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/
